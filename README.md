@@ -6,7 +6,7 @@ this code is based on a default demo for the esp32-cam module, I extended the we
 
 Parts that I've used:
 
-4 x motors (6V, 300rpm) with wheels
+2 x motors (6V, 300rpm) with wheels
 
 1 x esp32-cam module
 
@@ -28,4 +28,4 @@ i have noticed that esp32-module doenst start sometimes properly when i connect 
 
 you can connect GND to GPIO2 ESP32CAM for activate flash on board.
 
-another issue that I have noticed is that I can't let the motors on left side rotate forward with the right side motors rotate backward and vice versa, it doesnt seem to work with esp32 cam module, but it works without it wery well, so any ideas are welcome.
+another issue that I have noticed is that I can't let the motors on after had obstacle but it works without it wery well, so any ideas are welcome.
